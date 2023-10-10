@@ -287,7 +287,7 @@ section.heading::before {
     justify-content: center;
     align-items: center;
     gap: 100px;
-    color: #fc6438;
+    color: #fff;
 
 
 
@@ -337,7 +337,7 @@ section.heading::before {
   }
   
   .about2 .title {
-    font-size: 24px;
+    font-size: 30px;
     color: white;
     text-align: center;
   }
@@ -457,7 +457,7 @@ section.heading::before {
     
 }
 .services, .teams{
-    color:#fc6438;
+    color:#fff;
 
 
 
@@ -516,7 +516,7 @@ section.heading::before {
 }
 
 .brands .about-content .right .text span {
-    color: #fc6438;
+    color: #fff;
 
 
 
@@ -852,7 +852,7 @@ footer span a:hover{
 .distribute {
     font-family: 'Poppins',sans-serif;
     background-color: #fc6438;
-    color: #000
+    color: #fff;
     padding: 50px 0;
     text-align: center;
 }
@@ -934,7 +934,7 @@ footer span a:hover{
 .brands {
     font-family: 'Poppins', sans-serif;
     background-color:  #000;
-    color: #fc6438;
+    color: #fff;
     ;
 
 }
@@ -1015,7 +1015,7 @@ footer span a:hover{
 
 
     
-    color: black
+    color: #fff;
 }
 
 .partner-content {
@@ -1101,7 +1101,7 @@ footer span a:hover{
     font-family: 'Poppins', sans-serif;
     background-color:  #000;
     
-    color: #fc6438;
+    color: #fff;
 
 
 
@@ -1199,7 +1199,7 @@ img {
    display: flex;   
    justify-content: space-between;
    background-color: black;
-   color: #fc6438;
+   color: #de463b;
 
 
 
@@ -1274,4 +1274,3 @@ footer {
     opacity: 1;
     transform: translateY(0);
 }
-
