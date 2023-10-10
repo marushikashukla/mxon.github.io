@@ -98,6 +98,7 @@ $(document).ready(function(){
         window.addEventListener('resize', checkViewport);
         window.addEventListener('load', checkViewport);
     });
+    
 
 
 
