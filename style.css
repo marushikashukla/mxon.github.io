@@ -64,7 +64,7 @@ section .title::before{
     left: 50%;
     width: 180px;
     height: 3px;
-    background: #f4475b;
+    background: #fc6438;
 
 
 
@@ -75,7 +75,7 @@ section .title::after{
     bottom: -8px;
     left: 50%;
     font-size: 20px;
-    color: #f4475b;
+    color: #fc6438;
 
 
 
@@ -268,7 +268,7 @@ section.heading::before {
 
 .about .title::after {
     content: "WHO WE ARE";
-    color: #f4475b;
+    color: #fc6438;
 
 
 
@@ -287,7 +287,7 @@ section.heading::before {
     justify-content: center;
     align-items: center;
     gap: 100px;
-    color: #f4475b;
+    color: #fc6438;
 
 
 
@@ -331,7 +331,7 @@ section.heading::before {
 
 /* Styling for the "about2" section */
 .about2 {
-    background-color: #f4475b;
+    background-color: #fc6438;
     color: white;
     padding: 50px 0;
   }
@@ -351,7 +351,7 @@ section.heading::before {
     background: rgb(199, 199, 199);
     overflow: hidden;
   }
-  
+
 .img1 {
     background-image: url("brand\ visibility.jpg");
 }
@@ -457,7 +457,7 @@ section.heading::before {
     
 }
 .services, .teams{
-    color:#f4475b;
+    color:#fc6438;
 
 
 
@@ -475,7 +475,7 @@ section.heading::before {
 }
 .services .title::before,
 .teams .title::before{
-    background: #f4475b;
+    background: #fc6438;
 
 
 
@@ -516,7 +516,7 @@ section.heading::before {
 }
 
 .brands .about-content .right .text span {
-    color: #f4475b;
+    color: #fc6438;
 
 
 
@@ -527,7 +527,7 @@ section.heading::before {
 }
 
 .brands .about-content .right a:hover {
-    color: #f4475b;
+    color: #fc6438;
 
 
 
@@ -851,7 +851,7 @@ footer span a:hover{
 /* Distribute section styling */
 .distribute {
     font-family: 'Poppins',sans-serif;
-    background-color: #f4475b;
+    background-color: #fc6438;
     color: #000
     padding: 50px 0;
     text-align: center;
@@ -934,7 +934,7 @@ footer span a:hover{
 .brands {
     font-family: 'Poppins', sans-serif;
     background-color:  #000;
-    color: #f4475b;
+    color: #fc6438;
     ;
 
 }
@@ -1010,7 +1010,7 @@ footer span a:hover{
 
 .partner {
     font-family: 'Poppins', sans-serif;
-    background-color:  #f4475b;
+    background-color:  #fc6438;
 
 
 
@@ -1101,7 +1101,7 @@ footer span a:hover{
     font-family: 'Poppins', sans-serif;
     background-color:  #000;
     
-    color: #f4475b;
+    color: #fc6438;
 
 
 
@@ -1199,7 +1199,7 @@ img {
    display: flex;   
    justify-content: space-between;
    background-color: black;
-   color: #f4475b;
+   color: #fc6438;
 
 
 
@@ -1231,7 +1231,7 @@ img {
 }
 
 .wrapper-right a{
-    color: #f4475b;
+    color: #fc6438;
 
 
 
@@ -1239,7 +1239,7 @@ img {
 
 footer {
     background-color: black;
-    color: #f4475b;
+    color: #fc6438;
 
 
 
@@ -1274,3 +1274,4 @@ footer {
     opacity: 1;
     transform: translateY(0);
 }
+
