@@ -68,13 +68,36 @@ $(document).ready(function(){
                 }
             });
         }
+
+        $(document).ready(function () {
+            // Your existing JavaScript code for sticky navbar, scroll-up button, and toggle menu
+          
+            // Collapsing image gallery script
+            const slides = document.querySelectorAll(".about2 .slide");
+          
+            slides.forEach(function (oneSlide) {
+              oneSlide.addEventListener("click", function () {
+                // Remove active class from all slides within the "about2" section
+                deleteActiveClass();
+                // Add active class to the clicked slide within the "about2" section
+                oneSlide.classList.add("active");
+              });
+            });
+          
+            function deleteActiveClass() {
+              slides.forEach(function (mySlide) {
+                mySlide.classList.remove("active");
+              });
+            }
+          });
+          
+          
     
         // Listen for scroll events and check if elements are in the viewport
         window.addEventListener('scroll', checkViewport);
         window.addEventListener('resize', checkViewport);
         window.addEventListener('load', checkViewport);
     });
-    
 
 
 
