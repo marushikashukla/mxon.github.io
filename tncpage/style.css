@@ -223,3 +223,20 @@ footer {
 .footer-links a:hover {
     color: #fc6438;
 }
+
+.social-media-links {
+    display: flex;
+    
+}
+
+
+i {
+    margin-right: 10px;
+    size: 1rem;
+}
+
+.menu-footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
